@@ -1,0 +1,20 @@
+{
+  "name": "aa-test-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/fmsim/aa-test-api#readme",
+  "bugs": {
+    "url": "https://github.com/fmsim/aa-test-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmsim/aa-test-api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
