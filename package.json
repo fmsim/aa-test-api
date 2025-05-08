@@ -16,5 +16,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "knope": "^1.1.2"
   }
 }
